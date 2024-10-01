@@ -19,11 +19,11 @@
 ## Let's Start! 🕹️
 
 1. **Input your research question**: 
-  <img src="images/blank.png" alt="Wordle Game Grid" width="300">
-  <img src="images/typing_words.png" alt="User Guessing" width="300">
+  <img src="blank.png" alt="RAGXiv Platform" width="300">
+  <img src="enter_question.png" alt="User Input" width="300">
   
 2. **Submit your question**: 
-  <img src="images/one_guess.png" alt="User's First Guess" width="300">
-  <img src="images/second_guess.png" alt="User's First Guess" width="300">
+  <img src="answer1.png" alt="Abstracts" width="300">
+  <img src="answer2.png" alt="Abstracts" width="300">
   
 3. **Read the retrieved abstracts**: 
