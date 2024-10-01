@@ -16,10 +16,3 @@
 - **Hugging Face Sentence Transformers:** Used for embedding paper abstracts and performing semantic search.
 - **Git:** Version control for tracking development progress and collaboration.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/RAGXiv.git
-   cd RAGXiv
