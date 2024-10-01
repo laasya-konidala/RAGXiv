@@ -16,3 +16,14 @@
 - **Hugging Face Sentence Transformers:** Used for embedding paper abstracts and performing semantic search.
 - **Git:** Version control for tracking development progress and collaboration.
 
+## Let's Start! 🕹️
+
+1. **Input your research question**: 
+  <img src="images/blank.png" alt="Wordle Game Grid" width="300">
+  <img src="images/typing_words.png" alt="User Guessing" width="300">
+  
+2. **Submit your question**: 
+  <img src="images/one_guess.png" alt="User's First Guess" width="300">
+  <img src="images/second_guess.png" alt="User's First Guess" width="300">
+  
+3. **Read the retrieved abstracts**: 
