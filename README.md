@@ -19,11 +19,11 @@
 ## Let's Start! 🕹️
 
 1. **Input your research question**: 
-  <img src="blank.png" alt="RAGXiv Platform" width="300">
-  <img src="enter_question.png" alt="User Input" width="300">
+  <img src="blank.png" alt="RAGXiv Platform" width="400">
+  <img src="enter_question.png" alt="User Input" width="400">
   
 2. **Submit your question**: 
-  <img src="answer1.png" alt="Abstracts" width="300">
-  <img src="answer2.png" alt="Abstracts" width="300">
+  <img src="answer1.png" alt="Abstracts" width="400">
+  <img src="answer2.png" alt="Abstracts" width="400">
   
 3. **Read the retrieved abstracts**: 
